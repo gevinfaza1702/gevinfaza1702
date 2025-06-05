@@ -13,11 +13,3 @@
 - 🌐 HTML, CSS, PHP
 
 ---
-
-### 📌 Featured Projects
-- 🔹 [CatfishSense](https://github.com/gevinfaza1702/catfishsense) – Smart fish pond IoT system w/ Flutter & Firebase
-- 🔹 [AquaCultiva](https://github.com/gevinfaza1702/AquaCultiva-Project) – Smart irrigation system using ESP32 & Firestore
-
----
-
-📫 Reach me on [LinkedIn](https://linkedin.com/in/namalinkedinmu) | ✉️ gevinfaza@example.com
