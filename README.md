@@ -7,9 +7,9 @@
 ---
 
 ### 🔧 Tech Stack
-- 💻 Flutter, Dart, Firebase
+- 💻 Flutter, Firebase
 - 🧠 Machine Learning, Python
-- 📡 ESP32, C++, Arduino
-- 🌐 HTML, CSS, PHP
+- 📡 IoT
+- 🌐 Fullstack Web Development
 
 ---
